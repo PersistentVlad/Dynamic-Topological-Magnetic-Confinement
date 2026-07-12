@@ -105,7 +105,7 @@ DTMC is presented as an engineering hypothesis intended to stimulate interdiscip
 
 ## Citation
 
-DOI: https://doi.org/10.5281/zenodo.21266596
+DOI: https://doi.org/10.5281/zenodo.21322613
 
 ---
 
