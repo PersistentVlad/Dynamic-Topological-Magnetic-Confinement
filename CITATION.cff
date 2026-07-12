@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Dynamic Topological Magnetic Confinement (DTMC)
+message: "If you find this work useful, please cite the accompanying whitepaper available in this repository."
+type: conceptual whitepaper
+authors:
+  - family-names: Bliznyukov
+    given-names: Vladislav
+license: CC-BY-NC-4.0
+year: 2026
+repository-code: https://github.com/PersistentVlad/Dynamic-Topological-Magnetic-Confinement
+DOI: https://doi.org/10.5281/zenodo.21266596
